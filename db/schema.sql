@@ -7,7 +7,7 @@ USE burgers_db;
 
 CREATE TABLE burgers(
   id INT NOT NULL identity(1,1),
-  burger_name VARCHAR(100) NOT NULL,
+  burger_name VARCHAR(255) NOT NULL,
   devoured boolean,
   PRIMARY KEY (id)
 );
