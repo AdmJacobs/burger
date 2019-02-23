@@ -6,7 +6,7 @@ var routes = require("./controllers/burgers_controller.js");
 
 // Sets up the Express App
 var app = express();
-var PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 3000;
 
 //middleware
 app.use(express.static(process.cwd() + "/public"));

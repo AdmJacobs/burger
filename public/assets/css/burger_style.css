@@ -1,20 +1,3 @@
-.jumbotron {
-  background-color: rgb(192, 167, 75);
-  
-}
-.jumbotron > .container {
-  background-color: rgba(73, 49, 138, 0.5);
-}
-
-.jumbotron > .container > h1 {
-  font-family: 'Times New Roman', Times, serif;
-  color: rgb(141, 101, 59);
-}
-
-.jumbotron > .container > p {
-  font-family: 'Times New Roman', Times, serif;
-  color: rgb(147,16,9);
-}
 
 .main {
   font-family: 'Times New Roman', Times, serif;
