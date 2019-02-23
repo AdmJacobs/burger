@@ -4,11 +4,11 @@
   "description": "MySQL, Node, Express, Handlebars and a homemade ORM",
   "main": "server.js",
   "dependencies": {
-      "body-parser": "^1.18.3",
-      "express": "^4.16.4",
-      "express-handlebars": "^3.0.0",
-      "method-override": "^3.0.0",
-      "mysql": "^2.16.0"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "method-override": "^3.0.0",
+    "mysql": "^2.16.0"
   },
   "devDependencies": {},
   "scripts": {
@@ -25,4 +25,4 @@
     "url": "https://github.com/AdmJacobs/burger/issues"
   },
   "homepage": "https://github.com/AdmJacobs/burger#readme"
-  }
+}
