@@ -1,5 +1,5 @@
 {
-  "name": "burger-database",
+  "name": "burger",
   "version": "1.0.0",
   "description": "MySQL, Node, Express, Handlebars and a homemade ORM",
   "main": "server.js",
